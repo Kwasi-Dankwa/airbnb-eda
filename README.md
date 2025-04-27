@@ -62,3 +62,17 @@ This line graph highlights some key observations
 * Another Smaller Spike (Early 2022): There is a smaller but still noticeable spike in the number of reviews around early 2022, although it is significantly smaller than the 2019 spike. This could indicate another period of increased review activity.
 
 * Return to Low Levels (Late 2022-2024): After the 2022 spike, the number of reviews returns to a very low level and remains consistently low through 2024 (as far as the data shows).
+
+## Tools Used
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+## How to Run
+1. Clone this repository
+
+2. Open the Jupyter Notebook
+
+3. Run the cells to reproduce the analysis and visualizations
